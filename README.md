@@ -1,7 +1,5 @@
-# Codelabs for Material Components for iOS (MDC-iOS)
+# 2017's Codelabs for Material Components for iOS (MDC-iOS)
 
-[Material Components for iOS](https://material.io/components/ios/) are modular and customizable UI
-components that implement Material Design. This repo houses the source for the [Building Beautiful
-Apps Faster](https://codelabs.developers.google.com/codelabs/mdc-ios/index.html) codelab.
+These codelabs are deprecated. Please find the new ones at [codelabs.developers.google.com](https://codelabs.developers.google.com/?cat=Design) and the repo for them at [github.com/material-components/material-components-ios-codelabs](https://github.com/material-components/material-components-ios-codelabs).
 
 
